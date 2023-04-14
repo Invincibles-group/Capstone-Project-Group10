@@ -7,3 +7,5 @@ The General Transit Feed Specification (GTFS) is used to estimate the emissions 
 services. Using this information, transit agencies can identify opportunities to reduce emissions and
 improve sustainability. We are using the gtfs2emis R package to estimate the emission levels of public transport vehicles based
 on General Transit Feed Specification (GTFS) data.
+
+**How to Download the Data into the Excel from R package**
