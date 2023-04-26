@@ -51,8 +51,11 @@ In this study we use General Transit Feed Specification (GTFS) data from a R pac
 **Conclusion**
 
 Future projected emission levels range in between 1.0 to 1.12 (g/miles)
+
 CO2 stands out as the primary pollutant 
+
 Countries can switch to cleaner fuels and more fuel-efficient technologies
+
 Implementing policies and regulations that incentivize low-carbon or zero-emission public transport.
 
 
