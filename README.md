@@ -34,7 +34,7 @@ In this study we use General Transit Feed Specification (GTFS) data from a R pac
 
 **Exploratory Data Analysis**
 
- 					**Pollutants emitted at the highest level**
+ 					*****Pollutants emitted at the highest level*********************
 ![image](https://user-images.githubusercontent.com/55294714/234574062-9fa051aa-a22d-45ec-888a-8b2b6746a90e.png)
 
 					**Transit buses average emissions from 2010 to 2022**
