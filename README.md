@@ -50,11 +50,11 @@ In this study we use General Transit Feed Specification (GTFS) data from a R pac
 
 **Machine Learning Models**
 
-  Random Forest Regressor
+  1) Random Forest Regressor
 
-  Time Series ARIMA Model
+  2) Time Series ARIMA Model
 
-  FB Prophet
+  3) FB Prophet
 
 **Conclusion**
 
