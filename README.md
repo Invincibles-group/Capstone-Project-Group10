@@ -48,6 +48,14 @@ In this study we use General Transit Feed Specification (GTFS) data from a R pac
 
 ![image](https://user-images.githubusercontent.com/55294714/234574797-4a1824f8-6699-4545-8f1e-a2764f27bc51.png)
 
+**Machine Learning Models**
+
+  Random Forest Regressor
+
+  Time Series ARIMA Model
+
+  FB Prophet
+
 **Conclusion**
 
 Future projected emission levels range in between 1.0 to 1.12 (g/miles)
