@@ -34,19 +34,18 @@ In this study we use General Transit Feed Specification (GTFS) data from a R pac
 
 **Exploratory Data Analysis For USA Data**
 
-**Pollutants emitted at the highest level**
+
 ![image](https://user-images.githubusercontent.com/55294714/234574062-9fa051aa-a22d-45ec-888a-8b2b6746a90e.png)
 
-**Transit buses average emissions from 2010 to 2022**
+
 ![image](https://user-images.githubusercontent.com/55294714/234574705-9c81cd82-eeb7-41bf-90fd-4f039868c2db.png)
 
-**Average emissions (g/miles) by model year**
+
 ![image](https://user-images.githubusercontent.com/55294714/234574729-630f9126-7f62-4c42-86e5-21735cb6ce70.png)
 
-**Comparison of emission levels at different speed intervals**
+
 ![image](https://user-images.githubusercontent.com/55294714/234574768-77e442d0-74f1-435c-95dc-04a5a7ee6361.png)
 
-**Comparison of emission for different fuel types**
 ![image](https://user-images.githubusercontent.com/55294714/234574797-4a1824f8-6699-4545-8f1e-a2764f27bc51.png)
 
 
