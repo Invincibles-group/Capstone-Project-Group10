@@ -16,7 +16,15 @@ on General Transit Feed Specification (GTFS) data.
 
   3) Pollutants can cause a range of health problems and causing the global warming
 
+**Praposed Solution**
 
+  1) Calculate and Compare public transportation emissions using ML Models Time Series, FB Prophet & Random Forest.
+
+  2) Forecasting the emission for 5 years using historical data from 2010 to 2022.
+ 
+  3) Determine the primary pollutant that has the highest emission level across the given countries.
+
+  4) Type of fuel with the highest emissions
 
 **How to Download the Data into the Excel from R package**
 
