@@ -31,3 +31,8 @@ on General Transit Feed Specification (GTFS) data.
 **Data Description & Pre Processing**
 
 In this study we use General Transit Feed Specification (GTFS) data from a R package called gtfs2emis, to estimate public transport emissions. The gtfs2emis package uses emission factor models for Europe (EMEP/EEA), the United States (EPA/CARB and MOVES/EPA), and Brazil (CETESB) to calculate more than sixteen types of pollutants released by each vehicle. Fleet characteristics required by each emission factor models includes information for buses, including age, fuel, EURO standard, technology, load, slope, and whether they are Micro, Standard, or Articulated. However, the required characteristics may vary depending on the emission factor model.
+
+
+
+![image](https://user-images.githubusercontent.com/55294714/234574062-9fa051aa-a22d-45ec-888a-8b2b6746a90e.png)
+
