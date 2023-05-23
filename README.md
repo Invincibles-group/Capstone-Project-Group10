@@ -27,6 +27,7 @@ on General Transit Feed Specification (GTFS) data.
   4) Type of fuel with the highest emissions
 
 **How to Download the Data into the Excel from R package**
+
 data.table::fwrite(ef_brazil_cetesb_db, "brazil.csv")
 
 **Data Description & Pre Processing**
